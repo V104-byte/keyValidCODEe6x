@@ -1,1 +1,1 @@
-local ACESS = "yes"  -- ou "no"
+HHH
